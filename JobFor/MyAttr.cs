@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JobFor_ABAX
+namespace JobFor
 {
     
     [AttributeUsage(AttributeTargets.Property, Inherited = false, AllowMultiple = true)]

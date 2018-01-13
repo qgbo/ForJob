@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JobFor_ABAX
+namespace JobFor
 {
     //car(car 1) with licence plate NF123456, 147 kW engine power, maximal speed of 200 km/h, green colour and type of personal vehicle
    public class Car

@@ -55,8 +55,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JobFor_ABAX\JobFor_XXX.csproj">
-      <Project>{aa4d4f78-6f9c-417e-a4c5-cb784fbfa9da}</Project>
+    <ProjectReference Include="..\JobFor\JobFor_XXX.csproj">
+      <Project>{AA4D4F78-6F9C-417E-A4C5-CB784FBFA9DA}</Project>
       <Name>JobFor_XXX</Name>
     </ProjectReference>
   </ItemGroup>

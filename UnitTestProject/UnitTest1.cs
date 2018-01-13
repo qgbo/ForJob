@@ -1,5 +1,5 @@
 ﻿using System;
-using JobFor_ABAX;
+using JobFor;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTestProject
